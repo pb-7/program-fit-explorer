@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Mac system files
+.DS_Store
+
+# Model files (VERY IMPORTANT)
+models/*.gguf
+
+# Optional: logs/temp
+*.log
+

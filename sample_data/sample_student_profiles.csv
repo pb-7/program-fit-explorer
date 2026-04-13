@@ -1,0 +1,21 @@
+gender,age,academic_background,race,academic_interests,professional_interests,previous_work_experience
+Female,22,Computer Science,Asian,Machine Learning and Data Mining,Software Development and AI Research,Yes
+Male,24,Economics,White,Business Analytics,Consulting,No
+Non-binary,21,Statistics,Black,Data Science,Research,Yes
+Female,23,Psychology,Hispanic,Behavioral Analytics,UX Research,No
+Male,26,Engineering,Asian,Robotics,Product Development,Yes
+Female,22,Biology,White,Bioinformatics,Healthcare Research,Yes
+Male,25,Mathematics,Black,Quantitative Finance,Investment Banking,Yes
+Female,23,Sociology,Native American,Social Analytics,Non-Profit Analysis,No
+Male,24,Political Science,Asian,Public Policy and Analytics,Government,Yes
+Female,22,Information Technology,White,Cybersecurity,Tech Support,No
+Male,27,Physics,Black,Computational Science,Scientific Research,Yes
+Female,21,Education,Hispanic,Learning Analytics,Instructional Design,No
+Male,23,Philosophy,White,Ethics in AI,Policy Advocacy,No
+Female,26,Environmental Science,Asian,Sustainability Analytics,Environmental Consulting,Yes
+Male,22,Business Administration,Black,Marketing Analytics,Market Research,Yes
+Female,25,Chemistry,Hispanic,Chemical Data Analysis,Pharmaceuticals,Yes
+Male,21,Linguistics,White,Natural Language Processing,Computational Linguistics,No
+Female,24,Art History,Asian,Digital Humanities,Museum Curation,No
+Male,26,Law,White,Legal Analytics,Legal Tech,Yes
+Female,23,Finance,Black,Risk Analytics,Corporate Finance,Yes
